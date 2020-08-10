@@ -1,0 +1,7 @@
+STUDYID,DOMAIN,USUBJID,SUBJID,VISIT,LBTPT,LBCAT,,LBTEST,LBTESTCD,LBDAT,LBTIM,LBORRES,LBORRESU
+RDTR-001,LB,100-001,100-001,Unscheduled,Day 27,Blood Chemistry,,Sodium,SODIUM,2018/5/26,9:30,4.2,mmol/L
+RDTR-001,LB,100-001,100-001,Unscheduled,Day 27,Blood Chemistry,,Calcium,CA,2018/5/26,9:30,9.8,mg/dL
+RDTR-001,LB,100-001,100-001,Unscheduled,Day 27,Blood Chemistry,,Phosphorus,PHOS,2018/5/26,9:30,1.04,mmol/L
+RDTR-001,LB,100-001,100-001,Unscheduled,Day 45 - 240 minutes post-dose,Blood Chemistry,,Sodium,SODIUM,2018/5/26,11:05,4.5,mmol/L
+RDTR-001,LB,100-001,100-001,Unscheduled,Day 45 - 240 minutes post-dose,Blood Chemistry,,Calcium,CA,2018/5/26,11:05,10.4,mg/dL
+RDTR-001,LB,100-001,100-001,Unscheduled,Day 45 - 240 minutes post-dose,Blood Chemistry,,Phosphorus,PHOS,2018/5/26,11:05,1.21,mmol/L

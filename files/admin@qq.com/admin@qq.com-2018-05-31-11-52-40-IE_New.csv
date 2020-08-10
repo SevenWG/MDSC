@@ -1,0 +1,4 @@
+STUDYID,DOMAIN,USUBJID,SUBJID,VISIT,VISITNUM,IEYN,IECAT,IETESTCD,IETEST
+RDTR-001,IE,1,1,Screening,1,Y,Inclusion,,
+RDTR-001,IE,2,2,Screening,1,N,Ixclusion,INC_002,Subject between the age of 18 and 70 inclusive
+RDTR-001,IE,3,3,Screening,1,N,Exclusion,EXC_004,Subjects with a history of diabetes

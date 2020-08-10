@@ -1,0 +1,4 @@
+STUDYID,DOMAIN,USUBJID,SUBJID,IECAT,IETESTCD,IETEST
+RDTR-001,IE,1,1,Inclusion,,sample description
+RDTR-001,IE,2,2,Exclusion,sample critirion,sample description1
+RDTR-001,IE,3,3,Exclusion,test critiria,sample description2
